@@ -17,6 +17,8 @@ public class SomeClass1 {
             System.out.println("abc");
         }
         int i = 0;
+        
+        int xy;
     }
     
 }
