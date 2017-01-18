@@ -13,6 +13,9 @@ public class SomeClass1 {
     
     public static void main(String[]args) {
         String x;
+        for(int i = 0; i < 100; i++) {
+            System.out.println("abc");
+        }
     }
     
 }
