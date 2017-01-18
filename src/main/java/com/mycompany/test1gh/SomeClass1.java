@@ -12,7 +12,7 @@ package com.mycompany.test1gh;
 public class SomeClass1 {
     
     public static void main(String[]args) {
-        String s;
+        String x;
     }
     
 }
